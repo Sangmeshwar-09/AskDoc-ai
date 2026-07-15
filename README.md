@@ -398,7 +398,7 @@ npm run dev
 
 - **API Docs**: `http://localhost:8000/docs` (Swagger UI)
 - **ReDoc**: `http://localhost:8000/redoc`
-- **GitHub**: [Your Repository]
+- **GitHub**: `https://github.com/sangmeshwarswami936-blip/AskDoc-ai.git`
 
 ## License
 
