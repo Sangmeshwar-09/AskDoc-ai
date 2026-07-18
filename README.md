@@ -306,11 +306,24 @@ npm run dev
 # 6. Switch language to Hindi (हिंदी) or Marathi (मराठी)
 
 # 7. Verify you get translated answers
+<<<<<<< HEAD
 Support & Documentation
 API Docs: http://localhost:8000/docs (Swagger UI)
 ReDoc: http://localhost:8000/redoc
 GitHub: https://github.com/sangmeshwarswami936-blip/AskDoc-ai.git
 License
+=======
+```
+
+## Support & Documentation
+
+- **API Docs**: `http://localhost:8000/docs` (Swagger UI)
+- **ReDoc**: `http://localhost:8000/redoc`
+- **GitHub**: `https://github.com/sangmeshwarswami936-blip/AskDoc-ai.git`
+
+## License
+
+>>>>>>> fa3cf3dcb573f416474d4faf52da1c23bec864e8
 MIT License - feel free to use for personal and commercial projects
 
 Contributors
